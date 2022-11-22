@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="detail">In a RGB color space, hex #00b300 is composed of 0% red, 70.2% green and 0% blue. Whereas in a CMYK color space, it is composed of 100% cyan, 0% magenta, 100% yellow and 29.8% black. It has a hue angle of 120 degrees, a saturation of 100% and a lightness of 35.1%</string>
+    <string name="cast_crew"><![CDATA[Cast & Crew]]></string>
+</resources>
